@@ -1,1 +1,1 @@
-# Automobile-price-prediction
+# Miles per gallon (MPG) prediction
